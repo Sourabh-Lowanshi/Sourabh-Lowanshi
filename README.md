@@ -28,6 +28,6 @@ You can click the Preview link to take a look at your changes.
 &emsp;
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sourabhlowanshi22/)  &nbsp;
  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/sourabh1844_/)  &nbsp; 
-<a href="mailto:slowanshi21@gmail.com/"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+<a target="_blank"  href="mailto:slowanshi21@gmail.com/"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></img></a>
   
  
