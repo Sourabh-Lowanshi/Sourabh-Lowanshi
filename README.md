@@ -5,10 +5,7 @@
 - 💞️ I’m looking to collaborate on Web technology projects 
 - 📫 How to reach me ...
 https://www.linkedin.com/in/sourabh-lowanshi-1aa087241
-<!---
-75983Sourabh/75983Sourabh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 ### Languages and Tools 🛠 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
