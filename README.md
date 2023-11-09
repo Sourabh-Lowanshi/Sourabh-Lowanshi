@@ -28,4 +28,3 @@ https://www.linkedin.com/in/sourabh-lowanshi-1aa087241
   height="500px"
   src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"
 />
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=2E22F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sajan+Bhosale;A+passionate+Full+stack+developer;Nice+to+Meet+You..!!" alt="Typing SVG" /></a></h1>
