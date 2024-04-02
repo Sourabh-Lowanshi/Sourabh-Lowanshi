@@ -1,7 +1,8 @@
 
 - 👋 Hi, I’m **Sourabh Lowanshi**
+- 👨‍🎓 I’m Java Full Stack Developer
 - 👀 I’m interested in Web based technology 
-- 🌱 I’m currently learning PG-DAC Course
+- 🌱 I’m currently learning Web Development Technologies
 - 💞️ I’m looking to collaborate on Web technology projects 
 - 📫 How to reach me ...
 https://www.linkedin.com/in/sourabh-lowanshi-1aa087241
