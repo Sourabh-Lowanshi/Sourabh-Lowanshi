@@ -1,11 +1,11 @@
 
 - 👋 Hi, I’m **Sourabh Lowanshi**
-- 👨‍🎓 I’m Java Full Stack Developer
+- 👨‍🎓 I’m Java and .NET Full Stack Developer
 - 👀 I’m interested in Web based technology 
 - 🌱 I’m currently learning Web Development Technologies
 - 💞️ I’m looking to collaborate on Web technology projects 
 - 📫 How to reach me ...
-https://www.linkedin.com/in/sourabh-lowanshi-1aa087241
+https://www.linkedin.com/in/sourabh1844
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=75983Sourabh&label=Profile%20views&color=0e75b6&style=flat" alt="75983Sourabh" /> </p>
 
 
