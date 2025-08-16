@@ -1,11 +1,19 @@
 
-- 👋 Hi, I’m **Sourabh Lowanshi**
-- 👨‍🎓 I’m Java and .NET Full Stack Developer
-- 👀 I’m interested in Web based technology 
-- 🌱 I’m currently learning Web Development Technologies
-- 💞️ I’m looking to collaborate on Web technology projects 
-- 📫 How to reach me ...
-https://www.linkedin.com/in/sourabh1844
+# 👋 Hi, I’m Sourabh Lowanshi – Full Stack Developer
+
+🚀 Passionate Full Stack Developer | Java | .NET | React | Spring Boot | Sourabh Lowanshi
+
+Welcome to my GitHub! I’m **Sourabh Lowanshi**, a Java and .NET Full Stack Developer with a strong interest in building modern, responsive, and scalable web applications. I enjoy working on cutting-edge technologies and continuously improving my skills in both frontend and backend development.
+
+---
+
+## 👨‍💻 About Me
+
+- 🔧 I specialize in **Java**, **.NET**, **Spring Boot**, **React**, and **SQL Server**
+- 🌱 Currently learning **Web Development**, **Cloud Services**, and **DevOps Tools**
+- 💬 Ask me about: Full Stack Web Development, Java/.NET Projects, and REST APIs
+- 🤝 Looking to collaborate on web-based and enterprise-level application projects
+- 📫 How to reach me: [Connect on LinkedIn](https://www.linkedin.com/in/sourabh1844)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=75983Sourabh&label=Profile%20views&color=0e75b6&style=flat" alt="75983Sourabh" /> </p>
 
 
