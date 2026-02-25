@@ -9,7 +9,7 @@ Welcome to my GitHub! I’m **Sourabh Lowanshi**, a Java and .NET Full Stack Dev
 
 ## 👨‍💻 About Me
 
-- 🔧 I specialize in **Java**, **.NET**, **Spring Boot**, **React**, and **SQL Server**
+- 🔧 I specialize in **Java**, **.NET**, **Spring Boot**, **React**, and **SQL Server** and **NODEJS**
 - 🌱 Currently learning **Web Development**, **Cloud Services**, and **DevOps Tools**
 - 💬 Ask me about: Full Stack Web Development, Java/.NET Projects, and REST APIs
 - 🤝 Looking to collaborate on web-based and enterprise-level application projects
