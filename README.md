@@ -3,7 +3,7 @@
 
 🚀 Passionate Full Stack Developer | Java | .NET | React | Spring Boot | Sourabh Lowanshi
 
-Welcome to my GitHub! I’m **Sourabh Lowanshi**, a Java and .NET Full Stack Developer with a strong interest in building modern, responsive, and scalable web applications. I enjoy working on cutting-edge technologies and continuously improving my skills in both frontend and backend development.
+Welcome to my GitHub! I’m **Sourabh Lowanshi**, a MERN,Java and .NET Full Stack Developer with a strong interest in building modern, responsive, and scalable web applications. I enjoy working on cutting-edge technologies and continuously improving my skills in both frontend and backend development.
 
 ---
 
