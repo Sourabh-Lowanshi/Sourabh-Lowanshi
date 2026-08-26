@@ -13,7 +13,7 @@ Welcome to my GitHub! I’m **Sourabh Lowanshi**, a MERN,Java and .NET Full Stac
 - 🌱 Currently learning **Web Development**, **Cloud Services**, and **DevOps Tools**
 - 💬 Ask me about: Full Stack Web Development, Java/.NET Projects, and REST APIs
 - 🤝 Looking to collaborate on web-based and enterprise-level application projects
-- 📫 How to reach me: [Connect on LinkedIn](https://www.linkedin.com/in/sourabh1844)
+- 📫 How to reach me: [Connect on LinkedIn](https://www.linkedin.com/in/sourabhlowanshi)
 - 🔗 Visit my GitHub: [github.com/Sourabh-Lowanshi](https://github.com/Sourabh-Lowanshi)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sourabh-Lowanshi&label=Profile%20views&color=0e75b6&style=flat" alt="Sourabh-Lowanshi" /> </p>
 
