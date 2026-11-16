@@ -48,8 +48,9 @@ Welcome to my GitHub! I’m **Sourabh Lowanshi**, a MERN, Java, and .NET Full St
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sourabh-Lowanshi&show_icons=true&theme=radical" alt="Sourabh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabh-Lowanshi&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sourabh-Lowanshi&show_icons=true&theme=radical" alt="Sourabh's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Sourabh-Lowanshi&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Sourabh-Lowanshi&theme=radical" alt="GitHub Streak" />
 </p>
 
 
