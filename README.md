@@ -3,13 +3,13 @@
 
 🚀 Passionate Full Stack Developer | Java | .NET | React | Spring Boot | Sourabh Lowanshi
 
-Welcome to my GitHub! I’m **Sourabh Lowanshi**, a MERN,Java and .NET Full Stack Developer with a strong interest in building modern, responsive, and scalable web applications. I enjoy working on cutting-edge technologies and continuously improving my skills in both frontend and backend development.
+Welcome to my GitHub! I’m **Sourabh Lowanshi**, a MERN, Java, and .NET Full Stack Developer with a strong interest in building modern, responsive, and scalable web applications. I enjoy working on cutting-edge technologies and continuously improving my skills in both frontend and backend development.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔧 I specialize in **Java**, **.NET**, **Spring Boot**, **React**, and **SQL Server** and **NODEJS**
+- 🔧 I specialize in **Java**, **.NET**, **Spring Boot**, **React**, **SQL Server**, and **Node.js**
 - 🌱 Currently learning **Web Development**, **Cloud Services**, and **DevOps Tools**
 - 💬 Ask me about: Full Stack Web Development, Java/.NET Projects, and REST APIs
 - 🤝 Looking to collaborate on web-based and enterprise-level application projects
@@ -46,14 +46,20 @@ Welcome to my GitHub! I’m **Sourabh Lowanshi**, a MERN,Java and .NET Full Stac
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sourabh-Lowanshi&show_icons=true&theme=radical" alt="Sourabh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabh-Lowanshi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 
 <p>Connect with me on
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/sourabh1844"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>&emsp;<a target="_blank" href="https://www.facebook.com/sourabhlowanshi22/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/></img></a>  &nbsp;<a target="_blank" href="https://www.instagram.com/sourabh1844_bharlay/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/></img></a>  &nbsp; <a target="_blank"  href="mailto:slowanshi21@gmail.com/"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/sourabhlowanshi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>&emsp;<a target="_blank" href="https://www.facebook.com/sourabhlowanshi22/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/></img></a>  &nbsp;<a target="_blank" href="https://www.instagram.com/sourabh1844_bharlay/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/></img></a>  &nbsp; <a target="_blank"  href="mailto:slowanshi21@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></img></a>
   
  <img
   width="100%"
   height="500px"
-  src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"
+  src="./assets/full-stack-development.gif"
 />
