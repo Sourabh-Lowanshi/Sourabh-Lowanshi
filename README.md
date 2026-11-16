@@ -1,66 +1,95 @@
+<div align="center">
+  <h1>👋 Hi, I'm Sourabh Lowanshi</h1>
 
-# 👋 Hi, I’m Sourabh Lowanshi – Full Stack Developer
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Senior+Full+Stack+Developer;Java+%26+Spring+Boot+Specialist;.NET+Core+%26+Microservices+Architect;React+%26+Modern+Web+Ecosystem;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
+  </a>
 
-🚀 Passionate Full Stack Developer | Java | .NET | React | Spring Boot | Sourabh Lowanshi
+  <p align="center">
+    <strong>Senior Full Stack Software Engineer | 4+ Years Experience</strong>
+  </p>
 
-Welcome to my GitHub! I’m **Sourabh Lowanshi**, a MERN, Java, and .NET Full Stack Developer with a strong interest in building modern, responsive, and scalable web applications. I enjoy working on cutting-edge technologies and continuously improving my skills in both frontend and backend development.
+  <p align="center">
+    <a href="https://www.linkedin.com/in/sourabhlowanshi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <a href="mailto:slowanshi21@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+    <a href="https://github.com/Sourabh-Lowanshi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Sourabh-Lowanshi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
+  </p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Executive Summary
 
-- 🔧 I specialize in **Java**, **.NET**, **Spring Boot**, **React**, **SQL Server**, and **Node.js**
-- 🌱 Currently learning **Web Development**, **Cloud Services**, and **DevOps Tools**
-- 💬 Ask me about: Full Stack Web Development, Java/.NET Projects, and REST APIs
-- 🤝 Looking to collaborate on web-based and enterprise-level application projects
-- 📫 How to reach me: [Connect on LinkedIn](https://www.linkedin.com/in/sourabhlowanshi)
-- 🔗 Visit my GitHub: [github.com/Sourabh-Lowanshi](https://github.com/Sourabh-Lowanshi)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sourabh-Lowanshi&label=Profile%20views&color=0e75b6&style=flat" alt="Sourabh-Lowanshi" /> </p>
+I am a **Senior Full Stack Developer** with **4+ years of professional experience** architecting, designing, and building scalable enterprise applications and microservices. My core expertise lies in **Java & Spring Boot**, **.NET Core / C#**, and modern frontend development with **React.js & TypeScript**.
 
+- 💼 **4+ Years of Industry Experience** delivering robust enterprise web applications, high-throughput APIs, and cloud solutions.
+- 🏗️ **Architecture & Microservices:** Hands-on experience with Microservices, Event-Driven Architecture, and RESTful API ecosystems.
+- ⚡ **Performance & Scalability:** Database query optimization, caching strategies (Redis), and low-latency distributed systems.
+- 🔒 **Quality & Clean Code:** Strong adherence to SOLID design principles, Clean Architecture, and secure authentication (OAuth2 / JWT).
+- ☁️ **Cloud & DevOps:** Containerization with Docker & Kubernetes, CI/CD automation, and cloud deployments on AWS.
 
-### Languages and Tools 🛠 
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-### 📊 GitHub Stats
-<p align="left">
+## 🛠️ Technical Arsenal
+
+### ☕ Backend & Architecture
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-38BDF8?style=for-the-badge&logo=serverless&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### ⚛️ Frontend & UI Engineering
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🗄️ Databases & Storage
+![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ Cloud, DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Sourabh-Lowanshi&show_icons=true&theme=radical" alt="Sourabh's GitHub Stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Sourabh-Lowanshi&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=Sourabh-Lowanshi&theme=radical" alt="GitHub Streak" />
 </p>
 
+---
 
+## 🤝 Connect & Collaborate
 
-<p>Connect with me on
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/sourabhlowanshi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>&emsp;<a target="_blank" href="https://www.facebook.com/sourabhlowanshi22/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/></img></a>  &nbsp;<a target="_blank" href="https://www.instagram.com/sourabh1844_bharlay/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/></img></a>  &nbsp; <a target="_blank"  href="mailto:slowanshi21@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></img></a>
-  
- <img
-  width="100%"
-  height="500px"
-  src="./assets/full-stack-development.gif"
-/>
+I’m always open to discussing enterprise architectures, scalable system designs, and exciting full-stack opportunities.
+
+<p align="left">
+  <a target="_blank" href="https://www.linkedin.com/in/sourabhlowanshi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>&emsp;
+  <a target="_blank" href="https://www.facebook.com/sourabhlowanshi22/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="35" height="35" alt="Facebook" /></a>&nbsp;&nbsp;
+  <a target="_blank" href="https://www.instagram.com/sourabh1844_bharlay/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35" height="35" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a target="_blank" href="mailto:slowanshi21@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="35" height="35" alt="Email" /></a>
+</p>
